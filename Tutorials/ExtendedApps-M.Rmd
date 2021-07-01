@@ -6,7 +6,7 @@
 
 Below are links to access the tutorials for chapters in this section of the text: 
 
-- [Ch 9: Multivariate Visualization Revisited: Changing the View](Tutorials/Fake.html)
-- [Ch 10: Second-Order Statistics and Group Comparisons (Trajectory Analysis)](Tutorials/Fake.html)
-- [Ch 11: Multivariate Generalized Least Squares](Tutorials/Fake.html)
-- [Ch 12: Multivariate Model Selection with Effect Sizes](Tutorials/Fake.html)
+- [Ch 9: Multivariate Visualization Revisited: Changing the View](Fake.html)
+- [Ch 10: Second-Order Statistics and Group Comparisons (Trajectory Analysis)](Fake.html)
+- [Ch 11: Multivariate Generalized Least Squares](Fake.html)
+- [Ch 12: Multivariate Model Selection with Effect Sizes](Fake.html)

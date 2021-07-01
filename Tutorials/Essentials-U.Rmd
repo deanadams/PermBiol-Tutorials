@@ -6,6 +6,6 @@
 
 Below are links to access the tutorials for chapters in this section of the text: 
 
-- [Ch 1: Data, Parameters, and Statistics](Tutorials/Fake.html)
-- [Ch 2: Linear Algebra](Tutorials/Fake.html)
-- [Ch 3: RRPP: Empirical Sampling Distributions, Hypothesis Testing, and Effect Sizes](Tutorials/Fake.html)
+- [Ch 1: Data, Parameters, and Statistics](Fake.html)
+- [Ch 2: Linear Algebra](Fake.html)
+- [Ch 3: RRPP: Empirical Sampling Distributions, Hypothesis Testing, and Effect Sizes](Fake.html)

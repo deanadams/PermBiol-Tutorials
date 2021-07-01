@@ -6,7 +6,7 @@
 
 Below are links to access the tutorials for chapters in this section of the text: 
 
-- [Ch 9: Complex Linear Models](Tutorials/Fake.html)
-- [Ch 10: Types of Sums of Squares](Tutorials/Fake.html)
-- [Ch 11: MUlti-Model Evaluation](Tutorials/Fake.html)
-- [Ch 12: Correlated Observations: Introduction to Generalized Least Squares](Tutorials/Fake.html)
+- [Ch 9: Complex Linear Models](Fake.html)
+- [Ch 10: Types of Sums of Squares](Fake.html)
+- [Ch 11: MUlti-Model Evaluation](Fake.html)
+- [Ch 12: Correlated Observations: Introduction to Generalized Least Squares](Fake.html)
