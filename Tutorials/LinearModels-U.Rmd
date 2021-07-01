@@ -1,0 +1,13 @@
+---
+  title: "*Permutational Biometry*: Volume 1"
+---
+
+### Part II: Linear Models
+
+Below are links to access the tutorials for chapters in this section of the text: 
+
+- [Ch 4: The General Linear Model](Tutorials/Fake.html)
+- [Ch 5: Analysis of Variance (ANOVA): General Framework](Tutorials/Fake.html)
+- [Ch 6: Single-Factor ANOVA](Tutorials/Fake.html)
+- [Ch 7: Regression and Correlation](Tutorials/Fake.html)
+- [Ch 8: Estimation, Prediction, and Precision](Tutorials/Fake.html)

@@ -1,0 +1,12 @@
+---
+  title: "*Permutational Biometry*: Volume 2"
+---
+
+### Part II: Linear Models
+
+Below are links to access the tutorials for chapters in this section of the text: 
+
+- [Ch 5: Multivariate Association (Partial Least Squares)](Tutorials/Fake.html)
+- [Ch 6: Univariate-Like ANOVA for Multivariate Data](Tutorials/Fake.html)
+- [Ch 7: Multivariate Statistics (MANOVA)](Tutorials/Fake.html)
+- [Ch 8: Problems with Multidimensionality](Tutorials/Fake.html)

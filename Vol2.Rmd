@@ -1,0 +1,9 @@
+---
+  title: "*Permutational Biometry*: Volume 2"
+---
+
+Below are links to access the tutorials, based on the main sections of the text: 
+
+- [Part I: Essentials](Tutorials/Essentials-M.html)
+- [Part II: Linear Models](Tutorials/LinearModels-M.html)
+- [Part III: Extended Applications](Tutorials/ExtendedApps-M.html)

@@ -2,23 +2,23 @@
   title: "Tutorials for *Permutational Biometry*"
 ---
 
-Welcome to the tutorial web pages for *Permutational Biometry*! Here you will find links to various tutorials that provide instructions and example for all chapters in the text. Tutorial materials for each volumne may be accessed via the links below, or by the tabs in the header.
+Welcome to the tutorial web pages for *Permutational Biometry*! Here you will find links to various tutorials that provide instructions and example for all chapters in the text. Tutorial materials for each volume may be accessed via the links below, or by the tabs in the header.
 
 ---
 
 ## Volume 1: Univariate Data
 
-- [Part I: Essentials](Essentials-U.html)
-- [Part II: Linear Models](LinearModels-U.html)
-- [Part III: Extended Applications](ExtendedApps-U.html)
+- [Part I: Essentials](Tutorials/Essentials-U.html)
+- [Part II: Linear Models](Tutorials/LinearModels-U.html)
+- [Part III: Extended Applications](Tutorials/ExtendedApps-U.html)
 
 ---
 
 ## Volume 2: Multivariate Data
 
-- [Part I: Essentials](Essentials-M.html)
-- [Part II: Linear Models](LinearModels-M.html)
-- [Part III: Extended Applications](ExtendedApps-M.html)
+- [Part I: Essentials](Tutorials/Essentials-M.html)
+- [Part II: Linear Models](Tutorials/LinearModels-M.html)
+- [Part III: Extended Applications](Tutorials/ExtendedApps-M.html)
 
 
 

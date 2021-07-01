@@ -1,0 +1,12 @@
+---
+  title: "*Permutational Biometry*: Volume 2"
+---
+
+### Part I: Essentials
+
+Below are links to access the tutorials for chapters in this section of the text: 
+
+- [Ch 1: Properties of Multivaraite Data](Tutorials/Fake.html)
+- [Ch 2: Linear Algebra of Multivariate Data](Tutorials/Fake.html)
+- [Ch 3: RRPP: Multivariate Concepts and Applications](Tutorials/Fake.html)
+- [Ch 4: Multivariate Visualizations](Tutorials/Fake.html)
