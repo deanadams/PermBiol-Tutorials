@@ -5,11 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Preliminaries"
-      href: Preliminaries.html
-    - text: "Generalized Procrustes Analysis"
-      href: GPA.html
-    - text: "Statistical Analyses"
-      href: StatAnal.html
-    - text: "Visualizations"
-      href: Visualization.html
+    - text: "Volume 1: Univariate"
+      href: Vol1.html
+    - text: "Volume 2: Multivariate"
+      href: Vol2.html
