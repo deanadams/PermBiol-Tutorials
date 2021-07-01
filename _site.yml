@@ -1,0 +1,15 @@
+name: "Geomorph Tutorials"
+output_dir: "."
+navbar:
+  title: ""
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Preliminaries"
+      href: Preliminaries.html
+    - text: "Generalized Procrustes Analysis"
+      href: GPA.html
+    - text: "Statistical Analyses"
+      href: StatAnal.html
+    - text: "Visualizations"
+      href: Visualization.html

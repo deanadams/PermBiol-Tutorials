@@ -1,0 +1,11 @@
+---
+  title: "Preliminaries"
+---
+
+Simple verbiage: links to topics
+
+- [Reading/Importing Data](Tutorials/1.1-ReadingData.html) 
+- [Estimate Missing Landmarks](Tutorials/1.2-EstMissing.html)
+- [Outlier Identification](Tutorials/1.3-IdentifyOutliers.html)
+- [Standardizing Articulations](Tutorials/1.4-StandardizeArticulations.html)
+- [Symmetric Shape Generation](Tutorials/1.5-SymmetricShapeGeneration.html)

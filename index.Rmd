@@ -1,0 +1,16 @@
+---
+  title: "Tutorials for Geomorph"
+---
+
+Welcome to the `geomorph` tutorial web pages! Here you will find links to various tutorials that provide instructions and example for how to use `geomorph` to perform the latest morphometric analyses. ... (more general verbiage; brief outline of the tutorial page layout, etc.)
+
+- [Data Preliminaries](Preliminaries.html)
+- [Generalized Procrustes Analysis: GPA](Tutorials/2.1-GeneralizedProcrustesAnalysis.html)
+- Statistical Shape Analysis
+- Shape Visualizations & Statistical Plots
+
+**NOTE: we'll change all links to be internal to github, once we are ready to distribute to the team**
+
+
+
+
