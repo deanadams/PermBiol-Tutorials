@@ -6,7 +6,7 @@
 
 Below are links to access the tutorials for chapters in this section of the text: 
 
-- [Ch 1: Properties of Multivaraite Data](Fake.html)
+- [Ch 1: Properties of Multivariate Data](Fake.html)
 - [Ch 2: Linear Algebra of Multivariate Data](Fake.html)
 - [Ch 3: RRPP: Multivariate Concepts and Applications](Fake.html)
 - [Ch 4: Multivariate Visualizations](Fake.html)
